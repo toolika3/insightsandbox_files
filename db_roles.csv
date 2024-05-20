@@ -1,0 +1,5 @@
+Dataset Reg ID,Table Name,DB Role Name
+DSET000111,ameri_part_demo_grp,oasis_dbo_grp soasis-rs-01
+DSET000112,fre_origination_data,oasis_dbo_grp soasis-rs-01
+DSET000113,fre_performance_data,oasis_dbo_grp soasis-rs-01
+DSET000114,fan_loan_perf,oasis_dbo_grp soasis-rs-01
